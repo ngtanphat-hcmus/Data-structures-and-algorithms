@@ -6,7 +6,17 @@ A place to store my DSA knowledge from university courses and self-study. Most o
 ### Algorithms
 
 #### Sorting
+##### Basic Sorting
 
+- [Interchange Sort](./Algorithms/Sorting/Interchange-Sort/)
+- Selection Sort
+- Bubble Sort
+- Insertion Sort
+
+##### Divide and Conquer
+
+- Quick Sort
+- Merge Sort
 
 #### Searching
 
