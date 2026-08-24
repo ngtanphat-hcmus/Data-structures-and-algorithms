@@ -25,7 +25,7 @@ void print_array(int a[], int n)
     printf("\n");
 }
 
-int main(void)
+int main()
 {
     int a[] = {12, 2, 8, 5, 1, 6, 4, 15};
     int n = sizeof(a) / sizeof(a[0]); //Calculate the size of array
