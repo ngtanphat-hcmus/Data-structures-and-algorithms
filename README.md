@@ -8,10 +8,10 @@ A place to store my DSA knowledge from university courses and self-study. Most o
 #### Sorting
 ##### Basic Sorting
 
-- [Interchange Sort](./Algorithms/Sorting/Interchange-Sort/)
-- [Selection Sort](./Algorithms/Sorting/Selection-Sort/)
-- [Bubble Sort](./Algorithms/Sorting/Bubble-Sort/)
-- [Insertion Sort](./Algorithms/Sorting/Insertion-Sort/)
+- [Interchange Sort](./Algorithms/Sorting/Basic-Sorting/Interchange-Sort/)
+- [Selection Sort](./Algorithms/Sorting/Basic-Sorting/Selection-Sort/)
+- [Bubble Sort](./Algorithms/Sorting/Basic-Sorting/Bubble-Sort/)
+- [Insertion Sort](./Algorithms/Sorting/Basic-Sorting/Insertion-Sort/)
 
 ##### Divide and Conquer
 
