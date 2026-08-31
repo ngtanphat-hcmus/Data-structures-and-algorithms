@@ -1,5 +1,5 @@
 # Data structures and algorithms
-A place to store my DSA knowledge from university courses and self-study. Most of the code in this repository is written in C.
+A place to store my DSA knowledge from university courses and self-study. Most of the code in this repository is written in C. The algorithms, explanations and implementations are based on my own understanding of the concepts I have learned.
 
 ## Learning Roadmap
 
@@ -15,7 +15,7 @@ A place to store my DSA knowledge from university courses and self-study. Most o
 
 ##### Divide and Conquer
 
-- Quick Sort
+- [Quick Sort](./Algorithms/Sorting/Divide-and-Conquer/Quick-Sort/)
 - Merge Sort
 
 #### Searching
