@@ -16,7 +16,7 @@ A place to store my DSA knowledge from university courses and self-study. Most o
 ##### Divide and Conquer
 
 - [Quick Sort](./Algorithms/Sorting/Divide-and-Conquer/Quick-Sort/)
-- Merge Sort
+- [Merge Sort](./Algorithms/Sorting/Divide-and-Conquer/Merge-Sort/)
 
 #### Searching
 
