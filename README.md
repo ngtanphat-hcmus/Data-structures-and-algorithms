@@ -20,6 +20,7 @@ A place to store my DSA knowledge from university courses and self-study. Most o
 
 #### Searching
 - [Linear Search](./Algorithms/Searching/Linear-Search/)
+- [Binary Search](./Algorithms/Searching/Binary-Search/)
 
 ---
 
