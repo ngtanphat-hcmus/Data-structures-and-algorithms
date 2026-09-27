@@ -19,7 +19,8 @@ A place to store my DSA knowledge from university courses and self-study. Most o
 - [Merge Sort](./Algorithms/Sorting/Divide-and-Conquer/Merge-Sort/)
 
 #### Searching
-- [Linear-Search](.Searching/Linear-Search/README.md/)
+- [Linear Search](./Algorithms/Searching/Linear-Search/)
+
 ---
 
 ### Data Structures
